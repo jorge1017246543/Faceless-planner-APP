@@ -1,0 +1,6 @@
+{
+  "name": "Planificador Faceless",
+  "description": "Planificador de ingresos mensuales, gastos y reserva fiscal para canales faceless de YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Planificador Faceless</string>
+    <string name="app_full_title">Faceless Creator Revenue Planner</string>
+    <string name="nav_dashboard">Resumen</string>
+    <string name="nav_calculator">Calculadora</string>
+    <string name="nav_scenarios">Escenarios</string>
+    <string name="nav_methodology">Metodología</string>
+    <string name="estimate_disclaimer_short">Estimación referencial • Basado en tus datos, no son ingresos garantizados</string>
+    <string name="currency_selector_desc">Seleccionar moneda de visualización</string>
+    <string name="theme_toggle_desc">Cambiar tema claro u oscuro</string>
+    <string name="reset_calculator">Restablecer calculadora</string>
+    <string name="reset_confirm_title">¿Restablecer calculadora?</string>
+    <string name="reset_confirm_body">Todos los campos volverán a cero y se desvinculará el escenario actual. Tus escenarios guardados no se eliminarán.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="save_scenario">Guardar escenario</string>
+</resources>
